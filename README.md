@@ -2,7 +2,7 @@
 Car dashboard menu is written in **Assembly** with a **makefile** and **documentation**.
 
 ## Project
-+ **src:** files of project .s
++ **src:** project files .s
 + **doc:** exam & documentation
 
 ## License
