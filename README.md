@@ -1,9 +1,7 @@
 # Carmenu
-Car dashboard menu
-
-## Project
 Car dashboard menu is written in **Assembly** with a **makefile** and **documentation**.
 
+## Project
 + **src:** files of project .s
 + **doc:** exam & documentation
 
